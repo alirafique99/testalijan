@@ -6,4 +6,3 @@ ignored/.........
 asass
 asasas
 asasassa
-asass
